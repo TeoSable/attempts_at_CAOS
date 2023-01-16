@@ -1,0 +1,8 @@
+ba.sh
+exe
+ehe
+ca.sh
+link
+/home/linuxoid/Рабочий стол/CAOS/tech04/tech04-0/1.txt
+text
+l.ink
